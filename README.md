@@ -1,4 +1,7 @@
 # Atividade-de-IA---ChatBot
+
+Link do vídeo - https://youtu.be/ZD_VDHzm5aI
+
 📜 Descrição
 
 O chatbot permite ao usuário escolher um tema de conversa e fazer até três perguntas sobre esse tema. Ele utiliza o modelo gemini-2.0-flash da API do Google Gemini para gerar respostas e, ao final, cria um resumo das perguntas e respostas.
